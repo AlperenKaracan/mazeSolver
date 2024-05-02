@@ -1,6 +1,6 @@
 <h1 align="center" id="title">mazeSolver</h1>
 
-<p align="center"><img src="" alt="project-image"></p>
+
 
 <p id="description">Maze solver that finds the shortest path.</p>
 
